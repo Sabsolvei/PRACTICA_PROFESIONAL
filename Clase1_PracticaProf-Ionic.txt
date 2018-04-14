@@ -1,0 +1,15 @@
+bounce animation -> para crear animaciones
+o typescript animations
+
+angularfire
+
+Hacer 5 LOGINS
+Splashscreen (de fondo) con Animacion -> Login
+Firebase
+
+- Deben instalarse y aparecer el icono
+
+con plataforma de ionic, ionic update -> con ionic viewer se puede ver / Sino se sube a git
+
+Android Studio
+
